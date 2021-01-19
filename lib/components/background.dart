@@ -8,6 +8,7 @@ import 'package:flutters/flutters-game.dart';
 class Background extends GameObject {
   final Gradient gradient = new LinearGradient(
     begin: Alignment.topCenter,
+    //blablabla
     colors: <Color>[
       Color(0xff0165b1),
       Color(0xffFFFFFF),
